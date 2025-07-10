@@ -1,11 +1,10 @@
 # Description
 
-This is the Demo project for two React Context API examples:
-Example 1: Shopping Cart with Header Integration
-First example demonstrates a shopping cart system where the cart state is shared between the main product display and a header component showing the cart count.
-Example 2: Blog Content Management System
-This example demonstrates a more complex scenario where multiple types of data (categories and tags) are shared between a main content area and an aside navigation component.
-
+This is the Demo project for two React Context API examples:\
+Example 1: Shopping Cart with Header Integration\
+First example demonstrates a shopping cart system where the cart state is shared between the main product display and a header component showing the cart count.\
+Example 2: Blog Content Management System\
+This example demonstrates a more complex scenario where multiple types of data (categories and tags) are shared between a main content area and an aside navigation component.\
 
 [Documentation](https://evaficy.com/react-context-api/)
 
