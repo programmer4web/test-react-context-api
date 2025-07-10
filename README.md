@@ -6,6 +6,9 @@ First example demonstrates a shopping cart system where the cart state is shared
 Example 2: Blog Content Management System
 This example demonstrates a more complex scenario where multiple types of data (categories and tags) are shared between a main content area and an aside navigation component.
 
+
+[Documentation](https://evaficy.com/react-context-api/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
